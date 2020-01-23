@@ -1,9 +1,10 @@
 ---
 layout: project
 type: project
+published: true
 image: images/garys-best.png
 title: HECO Rewards
-permalink: projects/micromouse
+permalink: projects/hecorewards
 # All dates must be YYYY-MM-DD format!
 date: 2019
 labels:
