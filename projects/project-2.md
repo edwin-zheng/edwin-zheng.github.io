@@ -5,7 +5,7 @@ image: images/liliha-library.jpg
 title: Summer Reading Program Assistant
 permalink: projects/summerreadingprogramassistant
 # All dates must be YYYY-MM-DD format!
-date: 2017-06
+date: 2017-06-17
 labels:
   - Communication
   - Customer Service
