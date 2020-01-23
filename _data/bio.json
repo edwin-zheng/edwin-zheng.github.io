@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Edwin Zheng",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://edwin-zheng.github.io/images/profile_image.png",
+    "email": "ezheng@hawaii.edu",
+    "phone": "808-724-1261",
+    "website": "https://edwin-zheng.github.io",
+    "summary": "I am a student currently pursuing a B.S. in Computer Science at the University of Hawaii.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96816",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -18,35 +18,23 @@
       {
         "network": "github",
         "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/edwin-zheng"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "edwin-zheng",
+        "url": "http://linkedin.com/in/edwin-zheng"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "web development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "software development",
       "keywords": [
       ]
     },
@@ -62,31 +50,35 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "AngularJS",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "CSS",
+        "React",
+        "SemanticUI",
+        "SemanticUI React",
+        "AngularJS Material",
+        "Angular Material"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "GitKraken",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows 7",
+        "Windows 10"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-24",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,69 +87,58 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "STAR",
+      "position": "A STAR Front End Website Developer",
+      "website": "https://www.star.hawaii.edu/",
+      "startDate": "2019-12-02",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Front End Developer for STAR",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain and modify various websites managed by STAR",
+        "Maintain the server and create new projects for the benefit of students"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "STAR",
+      "position": "STAR Front End Web Developer",
+      "website": "https://www.star.hawaii.edu/",
+      "startDate": "2019-01-02",
+      "endDate": "2019-12-02",
+      "summary": "Maintain and enhance STAR websites and design web applications that are accessible to all users",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain and modify various websites managed by STAR"
+      ]
+    },
+    {
+      "company": "STAR",
+      "position": "STAR Assistant Front End Developer",
+      "website": "https://www.star.hawaii.edu/",
+      "startDate": "2018-07-02",
+      "endDate": "2019-01-02",
+      "summary": "Assisted in maintaining and enhancing the STAR websites",
+      "highlights": [
+        "Maintain and modify various websites managed by STAR"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Carole Kai Charities",
+      "website": "https://www.greataloharun.com/basic-computer-class-for-seniors/",
+      "position": "Assistant Computer Instructor",
+      "startDate": "2016-07",
+      "endDate": "2017-07",
+      "summary": "Assisted in teaching the elderly how to use computers",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
       "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "date": "2019",
+      "awarder": "Hawaii Annual Code Challenge",
+      "summary": "My team won first place for doing HECO's Electric Vehicle challenge."
     }
   ],
   "references": [
