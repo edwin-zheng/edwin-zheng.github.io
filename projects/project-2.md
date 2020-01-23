@@ -1,25 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/liliha-library.jpg
+title: Summer Reading Program Assistant
+permalink: projects/summerreadingprogramassistant
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-05 - 2017-07
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Communication
+  - Customer Service
+summary: Managed new applicants’ entries and verified progress of current applicants within the summer reading program.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+The Summer Reading Program at Liliha Library was a program where people are encouraged to read books and earn prizes for reading books. My role in this program was to aid any participants or future participants in logging their hours into the system, registering them into the system, distributing prizes, and answering any questions that were brought up by anybody. At the station, there were always two people to assist participants, so communication between the members was key in making sure the entire process of helping the person was done as efficiently as possible. This was especially vital when a large volume of people would come to the table to claim their rewards, in which a system had to be established to check which prize the participant got and distributing said prize quickly.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+This volunteer experience helped improve my communication skills in two ways. First, my teamwork skills and communication with teammates improved, as not clashing with the person I worked with for many hours is important to keep the atmosphere friendly and maintain an efficient workflow. When you have a good team environment, then providing good customer service gets easier. This is what I learned from my volunteer experience, and I also got to experience the many different types of people that one can encounter when providing customer service, which helps me learn how to deal with a person of that type.
