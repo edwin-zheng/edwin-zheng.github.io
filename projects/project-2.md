@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/liliha-library.jpg
+image: images/books.jpg
 title: Summer Reading Program Assistant
 permalink: projects/summerreadingprogramassistant
 # All dates must be YYYY-MM-DD format!
