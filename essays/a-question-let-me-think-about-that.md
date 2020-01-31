@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: A Question? Let Me Think about that
+title: A Question? Let me Think about that
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
