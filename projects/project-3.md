@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/judiciary.jpg
+image: images/data-entry.jpg
 title: Data Entry Clerk
 permalink: projects/dataentryclerk
 # All dates must be YYYY-MM-DD format!
