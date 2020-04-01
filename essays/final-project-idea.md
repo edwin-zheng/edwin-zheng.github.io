@@ -23,8 +23,8 @@ labels:
 <h3>Mockup page ideas</h3>
 
 <p>
-  Event Hub has three main roles that may expand later, a student role, an organization role, and an administrator role. Students will be able to browse through the calendar and filter out events based on various filters such as by organization or by official or unofficial events. Students can also make unofficial events, as long as they are not inappropriate. Organizations are capable of making official events and adding users to the organization, in which each organization is capable of assigning their own roles to users. Administrators will moderate the content to make sure events posted are not inappropriate. <br/> <br/>
-  Some possible pages would be<br/>
+  Event Hub has three main roles that may expand later, a student role, an organization role, and an administrator role. Students will be able to browse through the calendar and filter out events based on various filters such as by organization or by official or unofficial events. Students can also make unofficial events, as long as they are not inappropriate. Organizations are capable of making official events and adding users to the organization, in which each organization is capable of assigning their own roles to users. Administrators will moderate the content to make sure events posted are not inappropriate. <br> <br>
+  Some possible pages would be<br>
   <ul>
     <li>Landing Page</li>
     <li>Calendar Page</li>
