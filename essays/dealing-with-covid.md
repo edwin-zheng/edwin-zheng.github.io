@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Dealing with Covid"
-date: 2020-03-31
+date: 2020-04-03
 labels:
   - Software Engineering
   - Life
