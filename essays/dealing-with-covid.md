@@ -5,7 +5,7 @@ title: "Dealing with Covid"
 date: 2020-03-31
 labels:
   - Software Engineering
-  - Meteor
+  - Life
 ---
 
 <h3>Back to the Daily Grind</h3>
