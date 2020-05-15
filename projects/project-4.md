@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.png
+image: images/landing-cover.png
 title: ManoaList
 permalink: projects/manoalist
 # All dates must be YYYY-MM-DD format!
