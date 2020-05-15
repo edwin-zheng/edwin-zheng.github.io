@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.jpg
+image: images/landing.png
 title: ManoaList
 permalink: projects/manoalist
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: Work with a team to create a shopping site for UH students.
 ---
 
-<img src="images/landing.jpg"/>
+<img src="images/landing.png"/>
 
 <h3>Overview</h3>
 
@@ -28,7 +28,7 @@ For this project, I contributed to setting up the profile page and helped to fix
 From this project, I learned how to work in a different style in regards to working as a team. The communication between the team was close and the scheduled meetings helped keep things moving. This project has helped me learn more about Mongo and how to handle having so many people on a smaller project. In addition, I also learned more about React and the Semantic UI framework.
 
 <br/>
-<img src="images/additem.jpg"/>
+<img src="images/additem.png"/>
 <br/>
 
 For those who wish to view the team's page about ManoaList <a href="https://manoalist.github.io/">click here</a>
