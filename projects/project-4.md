@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/landing-cover.png
-title: ManoaList
+title: Manoalist
 permalink: projects/manoalist
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-15
@@ -17,7 +17,7 @@ summary: Work with a team to create a shopping site for UH students.
 
 <h3>Overview</h3>
 
-ManoaList is a web application designed to enable University of Hawaii students to sell their unwanted belongings easier. Allowing only University of Hawaii students to sign up and sign in, students and faculty can post their items to go on sale and be contacted by other users interested in their item. Administrators monitor the items being posted, create and delete categories that can be used to define items, and ban users who violate rules. Users can customize themselves through their profile page and leave ratings on items to let other users know how good or bad the seller was.
+Manoalist is a web application designed to enable University of Hawaii students to sell their unwanted belongings easier. Allowing only University of Hawaii students to sign up and sign in, students and faculty can post their items to go on sale and be contacted by other users interested in their item. Administrators monitor the items being posted, create and delete categories that can be used to define items, and ban users who violate rules. Users can customize themselves through their profile page and leave ratings on items to let other users know how good or bad the seller was.
 
 <h3>Contributions</h3>
 
@@ -31,7 +31,7 @@ From this project, I learned how to work in a different style in regards to work
 <img src="/images/additem.png" style="width: 100%"/>
 <br/>
 
-For those who wish to view the team's page about ManoaList <a href="https://manoalist.github.io/">click here</a>
+For those who wish to view the team's page about Manoalist <a href="https://manoalist.github.io/">click here</a>
 <br/>
 <br/>
-For those who wish to look at the source code for ManoaList <a href="https://github.com/manoalist/manoalist">click here</a>
+For those who wish to look at the source code for Manoalist <a href="https://github.com/manoalist/manoalist">click here</a>
