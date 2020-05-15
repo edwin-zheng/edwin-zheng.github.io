@@ -10,6 +10,8 @@ labels:
   - Teamwork
   - Communication
   - Software Engineering
+  - React
+  - MongoDB
 summary: Work with a team to create a shopping site for UH students.
 ---
 
